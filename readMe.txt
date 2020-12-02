@@ -1,0 +1,1 @@
+python voc2coco.py GroundTruth_XML_INT_Fortmat GroundTruth.json

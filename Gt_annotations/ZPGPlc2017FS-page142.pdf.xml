@@ -1,0 +1,26 @@
+<annotation>
+    <folder>images</folder>
+    <filename>ZPGPlc2017FS-page142.pdf.png</filename>
+    <path>D:\Table_related_Datasets\Dataset_ALL_E\yasir\images\ZPGPlc2017FS-page142.pdf.png</path>
+    <source>
+        <database>Unknown</database>
+    </source>
+    <size>
+        <width>827</width>
+        <height>1170</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+        <name>Table</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>76</xmin>
+            <ymin>193</ymin>
+            <xmax>796</xmax>
+            <ymax>361</ymax>
+        </bndbox>
+    </object>
+</annotation>
